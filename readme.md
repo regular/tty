@@ -7,6 +7,10 @@ Now imagine you cut that cable in the middle and attach a very long extension ca
 You just created a *teletype* system! The two end points are called *terminals*.(like, on an airport,  the endpoints of a plane flight are called terminal too) You sit in front of your teletype terminal and your friend sits in front of hers and you can now chat over a long distance. As usual in chat systems, you soon start to use a lot of abbreviations to save time and paper. Actually, you quickly become obsessed with abbreviations. One of those abbreviations is *tty* for teletype and *term* for terminal.
 
 We’ll talk about how the characters are actually transmitted in the Science and History thread.
+
+if you like, read more about teletypes on [Wikipedia][2]
+
 ![A german telteype machine from 1930][1]
 
 [1]: https://upload.wikimedia.org/wikipedia/commons/5/50/Bundesarchiv_Bild_183-2008-0516-500%2C_Fernschreibmaschine_mit_Telefonanschluss.jpg
+[2]: https://en.wikipedia.org/wiki/Teleprinter
