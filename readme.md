@@ -9,4 +9,4 @@ You just created a *teletype* system! The two end points are called *terminals*.
 We’ll talk about how the characters are actually transmitted in the Science and History thread.
 ![A german telteype machine from 1930][1]
 
-[1]: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-2008-0516-500,_Fernschreibmaschine_mit_Telefonanschluss.jpg#/media/File:Bundesarchiv_Bild_183-2008-0516-500,_Fernschreibmaschine_mit_Telefonanschluss.jpg
+[1]: https://upload.wikimedia.org/wikipedia/commons/5/50/Bundesarchiv_Bild_183-2008-0516-500%2C_Fernschreibmaschine_mit_Telefonanschluss.jpg
