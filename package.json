@@ -7,10 +7,10 @@
     "track": "black",
     "requires": ["intro"],
     "provides": ["teletype", "terminal"],
-    "synonym" : [
+    "synonyms" : {
       "tty": "teletype",
       "term": "terminal"
-    ]
+    }
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
