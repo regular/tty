@@ -9,7 +9,7 @@
       "intro"
     ],
     "provides": [
-      "teletype",
+      "tty",
       "terminal"
     ],
     "synonyms": {
